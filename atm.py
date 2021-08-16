@@ -1,4 +1,3 @@
-#This is atm project
 user = "u"
 while user == "u":
     print("Enter the amount that you want to withdraw: ")
@@ -25,4 +24,3 @@ while user == "u":
         print("Goodbye")
     else:
         print("The denominations you entered are not available.")
-#one more comment
